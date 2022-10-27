@@ -2,7 +2,6 @@
 This virtual work experience opportunity was provided by the [Forage](https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Software%20Engineering%20Virtual%20Experience) and [JPMorgan Chase & Co](https://careers.jpmorgan.com/us/en/students/campaign/virtual-internship). I chose to participate in the program because I wanted to gain more experience working with technologies like Git, Python, TypeScript, Node.js, React, and JPMorgan's open-source Perspective web application. 
 
 <br>
-<br>
 
 _All participants of this program were required to submit Git patches for each task to show proof of task completion. My Git patches for each task are saved in the Folder 'Git-Patch-Files'._
 

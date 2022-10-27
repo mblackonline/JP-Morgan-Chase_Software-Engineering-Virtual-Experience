@@ -11,12 +11,14 @@ _All participants of this program were required to submit Git patches for each t
         - display and track the ratio between two stock prices over time
         - display upper and lower bounds based on the ratios
         - trigger an alert if those thresholds were crossed to enable the stock traders to determine if a potential trading opportunity existed.
-  
+
+<br>
+
 ###  I produced a short video to share my approach to completing the final project and to show my final working version of the application. The video is available on YouTube at the below link: 
 
 [![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
 
-## My Certificate of Completion 
+### My Certificate of Completion 
 
 ![](https://github.com/mblackonline/JP-Morgan-Chase_Software-Engineering-Virtual-Experience/blob/b80b40a23e566a24b64044cff36dfe2d4a2a3f66/JPMorganCertificateofCompletion.png)
 

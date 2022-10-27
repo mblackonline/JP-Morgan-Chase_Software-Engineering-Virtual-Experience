@@ -15,7 +15,8 @@ _All participants of this program were required to submit Git patches for each t
   
 ###  I produced a short video to share my approach to completing the final project and to show my final working version of the application. The video is available through YouTube at the below link: 
 
-(<iframe width="1271" height="715" src="https://www.youtube.com/embed/_Pt1WJpoaSo" title="2022 08 05 11 34 40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> "Video Link")
+[![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
+
 
 
 #### Project tips:

@@ -17,6 +17,7 @@ _All participants of this program were required to submit Git patches for each t
 
 [![IMAGE ALT TEXT](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)]
 <br>
+<br>
 (https://youtu.be/_Pt1WJpoaSo "Video Link")
 
 

@@ -11,13 +11,10 @@ _All participants of this program were required to submit Git patches for each t
         - display and track the ratio between two stock prices over time
         - display upper and lower bounds based on the ratios
         - trigger an alert if those thresholds were crossed to enable the stock traders to determine if a potential trading opportunity existed.
-<br>
   
-###  I produced a short video to share my approach to completing the final project and to show my final working version of the application. The video is available through YouTube at the below link: 
+###  I produced a short video to share my approach to completing the final project and to show my final working version of the application. The video is available on YouTube at the below link: 
 
 [![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
-
-
 
 #### Project tips:
 - I recommend setting up your development environment in a virtual environment. This will allow you to avoid installing the project's dependencies on your main system and make it easy to create snapshots that can be used to revert to a previous state if needed.

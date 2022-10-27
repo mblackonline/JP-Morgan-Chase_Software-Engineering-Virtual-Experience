@@ -18,6 +18,8 @@ _All participants of this program were required to submit Git patches for each t
 
 [![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
 
+<br>
+
 ### My Certificate of Completion 
 
 ![](https://github.com/mblackonline/JP-Morgan-Chase_Software-Engineering-Virtual-Experience/blob/b80b40a23e566a24b64044cff36dfe2d4a2a3f66/JPMorganCertificateofCompletion.png)

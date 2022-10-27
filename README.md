@@ -16,6 +16,10 @@ _All participants of this program were required to submit Git patches for each t
 
 [![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
 
+## My Certificate of Completion 
+
+![](https://github.com/mblackonline/JP-Morgan-Chase_Software-Engineering-Virtual-Experience/blob/b80b40a23e566a24b64044cff36dfe2d4a2a3f66/JPMorganCertificateofCompletion.png)
+
 #### Project tips:
 - I recommend setting up your development environment in a virtual environment. This will allow you to avoid installing the project's dependencies on your main system and make it easy to create snapshots that can be used to revert to a previous state if needed.
 - I initially started this project using Replit because I did not want to install of the project dependencies on my main system. However, I encountered some difficulties getting the required npm modules installed in Replit, so I  used VirtualBox to set up a development environment for tasks 2 and 3. 

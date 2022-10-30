@@ -18,8 +18,7 @@ _All participants of this program were required to submit Git patches for each t
 
 ###  I produced a short video to share my approach to completing the final project and to show my final working version of the application. The video is available on YouTube at the below link: 
 
-![Video Link](https://i9.ytimg.com/vi/_Pt1WJpoaSo/mq3.jpg?sqp=CMDG65oG&rs=AOn4CLAuPW9NJl3yjbhCxnSur0c0fhzuLw)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
-
+[![Video Link](https://github.com/mblackonline/JP-Morgan-Chase_Software-Engineering-Virtual-Experience/blob/6b43daee6bb13df7390116bc68923c2397479da3/JPMorganCertificateofCompletion.png)](https://www.youtube.com/watch?v=_Pt1WJpoaSo)
 <br>
 
 ### My Certificate of Completion 
